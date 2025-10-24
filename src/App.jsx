@@ -157,8 +157,8 @@ export default function App() {
         <header className="sticky top-0 z-10 bg-white/80 backdrop-blur border-b">
           <div className="px-4 py-3 flex items-center justify-between">
             <div className="flex flex-col">
-              <h1 className="text-2xl font-bold">PDF ページナンバリングツール</h1>
-              <p className="text-sm text-gray-500 mt-0.5">PDF にページ番号を一括で追加します（ブラウザ内で完結）</p>
+              <h1 className="text-2xl font-bold">PDFページナンバリングメーカー</h1>
+              <p className="text-sm text-gray-500 mt-0.5">PDF にページ番号を一括で追加します</p>
             </div>
             {/* <a className="text-sm underline opacity-80 hover:opacity-100" href="https://pdf-lib.js.org/" target="_blank" rel="noreferrer">Powered by pdf-lib</a> */}
           </div>
